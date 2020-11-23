@@ -1,4 +1,4 @@
-# Video Player
+# Flutter Video Player
 ![Screenshot_2020-11-23-20-21-30-38_b5036833dabf0b6121ce8d15c212a610](https://user-images.githubusercontent.com/73152930/99977599-ded3d380-2dca-11eb-9540-a65d839a0d87.png)
 
 A Simple video player created using Flutter.
